@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" role="img" aria-labelledby="title"><title id="title">Декоративная иллюстрация движения</title>
+<defs><linearGradient id="blob" x2="1" y2="1"><stop stop-color="#fbddd1"/><stop offset="1" stop-color="#f1a9ad"/></linearGradient><linearGradient id="outfit" x2="1" y2="1"><stop stop-color="#a15e83"/><stop offset="1" stop-color="#714776"/></linearGradient></defs>
+<path d="M94 323C53 211 140 74 275 67C355 63 400 103 463 104C561 106 634 192 619 308C609 388 653 465 603 546C551 629 438 638 357 611C278 585 202 634 129 573C60 516 117 387 94 323Z" fill="url(#blob)"/>
+<path d="M97 572C208 558 406 558 583 583" fill="none" stroke="#f2ede3" stroke-width="41" stroke-linecap="round" opacity=".65"/><path d="M114 573C291 544 449 556 594 576" fill="none" stroke="#ae84a2" stroke-width="8" stroke-linecap="round"/>
+<path d="M300 257C270 263 250 278 244 305C239 331 257 351 283 355C316 358 339 336 340 304C341 277 325 259 300 257Z" fill="#d89372"/>
+<path d="M270 278C258 238 271 215 296 208C325 200 355 222 352 251C349 266 337 279 320 285C311 267 294 259 270 278Z" fill="#47304b"/><path d="M344 228C369 235 376 268 359 289C345 284 336 272 336 253Z" fill="#47304b"/>
+<path d="M275 353C269 385 276 407 307 429L356 454L410 421C403 383 380 357 343 343C312 333 288 339 275 353Z" fill="url(#outfit)"/>
+<path d="M285 361C242 361 213 328 190 296L165 270" fill="none" stroke="#d89372" stroke-width="29" stroke-linecap="round"/><path d="M165 270L144 243M165 270L140 263" fill="none" stroke="#d89372" stroke-width="14" stroke-linecap="round"/>
+<path d="M353 359C397 326 423 286 439 239L450 216" fill="none" stroke="#d89372" stroke-width="28" stroke-linecap="round"/><path d="M450 216L453 184M450 216L474 190" fill="none" stroke="#d89372" stroke-width="13" stroke-linecap="round"/>
+<path d="M337 437C273 453 212 492 163 546" fill="none" stroke="#6e4b78" stroke-width="44" stroke-linecap="round"/><path d="M365 440C435 463 488 496 541 550" fill="none" stroke="#6e4b78" stroke-width="44" stroke-linecap="round"/><path d="M163 546C150 559 131 564 113 565M541 550C558 559 576 562 596 559" fill="none" stroke="#e6ad91" stroke-width="27" stroke-linecap="round"/>
+<circle cx="178" cy="148" r="9" fill="#fff5ee"/><circle cx="538" cy="198" r="10" fill="#fff5ee"/><path d="M535 425l16-16m-16 0l16 16M214 405l14-14m-14 0l14 14" stroke="#fff5ee" stroke-width="6" stroke-linecap="round"/>
+</svg>
